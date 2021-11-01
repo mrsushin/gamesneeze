@@ -37,10 +37,7 @@ An open source training utility for Counter-Strike: Global Offensive on Linux.
  - Nightmode
  - Skybox changer
  - Skinchanger
- - Ragebot (currently in development and doesn't have awall/bulletsim so no mindmg/hitchance/autoshoot)
- - AntiAim (currently sways, need to fix LBY breaker)
  - JumpBug
- - EdgeBug
  - Edge Jump
 
 
