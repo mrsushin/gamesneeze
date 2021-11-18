@@ -87,7 +87,7 @@ All args are executed in the order they are written in, for example, "-u -b -l" 
  - [Create a pull request](https://github.com/seksea/gamesneeze/compare) ([tutorial](https://github.com/yangsu/pull-request-tutorial))
  - [Report a bug](https://github.com/seksea/gamesneeze/issues/new)
 
-## [To-do](https://github.com/seksea/gamesneeze/projects/1)
+## [To-do](https://github.com/mrsushin/gamesneeze/projects/1)
 
 ## Screenshots
 
